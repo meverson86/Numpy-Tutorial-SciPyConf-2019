@@ -6,6 +6,8 @@ This repository contains all the material needed by students registered for the 
 
 For a smooth experience, you will need to make sure that you install or update your Python distribution and download the tutorial material _before_ the day of the tutorial as the Wi-Fi at the AT&T center can be flaky.
 
+The video recorded from the SciPy 2019 conference can be found [here](https://www.youtube.com/watch?v=ZB7BZMhfPgk).
+
 ## Install Python
 
 If you don't already have a working python distribution, you may download Enthought Canopy ([https://store.enthought.com/downloads](https://store.enthought.com/downloads)), Anaconda Python ([https://www.anaconda.com/download/](https://www.anaconda.com/download/)) or Python.org ([https://www.python.org/downloads/](https://www.python.org/downloads/)).
